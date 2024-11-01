@@ -1,0 +1,10 @@
+HTTrack3.49-5 launched on Fri, 01 Nov 2024 00:44:35 at https://yeabbereket434.wixstudio.io/%20-0%20my-site-4/category/tablets
+(httrack "https://yeabbereket434.wixstudio.io/ -0 my-site-4/category/tablets" )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:44:39	Error: 	"Not Found" (404) at link https://yeabbereket434.wixstudio.io/--0-my-site-4/category/tablets (from primary/primary)
+00:44:39	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
