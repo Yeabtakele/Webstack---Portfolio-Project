@@ -1,8 +1,8 @@
-# <a href="https://ethiotravel.vercel.app">Ethiopa land of orgians</a>
+# <a href >Ethiopa land of orgians</a>
 
 ![image](./preview.jpg)
 # Description
-Ethio-Travel is a simple travel application use Maps to provide users with detailed travel information about the place. The application is built using HTML, CSS, SCSS for styling, Flask for the backend, and JavaScript for dynamic content and interactions.
+Ethiopa land of orgians  is a simple  application use Maps to provide users with detailed coffee  information about the place. The application is built using HTML, CSS, SCSS for styling, Flask for the backend, and JavaScript for dynamic content and interactions.
 
 # Features
 - Route Planning: Get Information and Story about the Place.
@@ -28,7 +28,7 @@ Achieving a responsive and user-friendly design.
 License
 # Developers 
  ##  <a href="https://yeabtakele.netlify.app/">yeab takele</a>
- ##  <a href=">https://github.com/Yeabtakele > yeab takele </a>
+ ##  <a href="https://github.com/Yeabtakele /" yeab takele </a>
  
 `This project is licensed under the MIT License. See the LICENSE file for details.`
 "https://ethiotravel.vercel.app
