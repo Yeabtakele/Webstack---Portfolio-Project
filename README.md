@@ -1,4 +1,4 @@
-# <a href >Ethiopa land of orgians</a>
+## Ethiopa land of orgians
 
 ![image](./preview.jpg)
 # Description
@@ -6,8 +6,8 @@ Ethiopa land of orgians  is a simple  application use Maps to provide users with
 
 # Features
 - Route Planning: Get Information and Story about the Place.
-- Destination Information: Get information about your destination, including attractions, restaurants, and accommodations.
-- Weather Forecast: View weather forecasts for your travel dates to plan accordingly the Map.
+- Destination Information: Get information about your farmland , including attractions, coffee .
+- Weather Forecast: View weather forecasts for your origion of land dates to plan accordingly the Map.
 
 # Technologies Used
 - Frontend: HTML, CSS, SCSS
@@ -31,4 +31,4 @@ License
  ##  <a href="https://github.com/Yeabtakele /" yeab takele </a>
  
 `This project is licensed under the MIT License. See the LICENSE file for details.`
-"https://ethiotravel.vercel.app
+
